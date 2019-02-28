@@ -1,22 +1,40 @@
 import React, { Component } from 'react';
 import Header from '../components/Header';
 import Meta from '../components/Meta';
-import styled from 'styled-components';
+import styled, { ThemeProvider, injectGlobal } from 'styled-components';
 
-const MyButton = styled.button`
-    background: red;
-    font-size: 100px;
+const theme = {
+    red: '#FF0000',
+    black: '#393939',
+    grey: '#3A3A3A',
+    lightgrey: '#E1E1E1',
+    offWhite: '#EDEDED',
+    maxWidth: '1000px',
+    bs: '0 12px 24px 0 rgba(0, 0, 0, 0.09', //boxShadow
+};
+
+const StyledPage = styled.div`
+    background: white;
+    color: black;
+`;
+
+const Inner = styled.div`
+    max-width: ${props => props.theme.maxWidth};
+    margin: 0 auto;
+    padding: 2rem;
 `;
 
 class Page extends Component {
     render() {
         return (
-            <div>
-                <Meta />
-                <Header />
-                <MyButton>Click Me</MyButton>
-                {this.props.children}
-            </div>
+            <ThemeProvider theme={theme}>
+                <StyledPage>
+                    <Meta />
+                    <Header />
+                    {/* <MyButton>Click Me</MyButton> */}
+                    <Inner>{this.props.children}</Inner>
+                </StyledPage>
+            </ThemeProvider>
         );
     }
 }
