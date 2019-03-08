@@ -5,8 +5,6 @@ const db = require('./db');
 
 const server = createServer();
 
-// TODO Use express middleware (JWT) to handle cookies
-
 server.start({
     cors: {
         credentials: true,
