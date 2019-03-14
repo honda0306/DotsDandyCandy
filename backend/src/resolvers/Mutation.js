@@ -1,4 +1,4 @@
-// const Mutations = {
+const Mutations = {
 //     async createItem(parent, args, ctx, info) {
 //     const item = await ctx.db.mutation.createItem(
 //         {
@@ -12,6 +12,6 @@
 //     return item;
 //     }
 
-// };
+};
 
-// module.exports = Mutations;
+module.exports = Mutations;
