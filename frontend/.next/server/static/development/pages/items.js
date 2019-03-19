@@ -172,13 +172,7 @@ function (_Component) {
           lineNumber: 18
         },
         __self: this
-      }), item.image ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 19
-        },
-        __self: this
-      }) : null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styles_Title__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_styles_Title__WEBPACK_IMPORTED_MODULE_3__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 20
@@ -347,7 +341,7 @@ function (_Component) {
   _createClass(Items, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Center, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 35
@@ -393,7 +387,6 @@ function (_Component) {
         }, data.items.map(function (item) {
           return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Item__WEBPACK_IMPORTED_MODULE_4__["default"], {
             item: item,
-            o: true,
             key: item.id,
             __source: {
               fileName: _jsxFileName,
