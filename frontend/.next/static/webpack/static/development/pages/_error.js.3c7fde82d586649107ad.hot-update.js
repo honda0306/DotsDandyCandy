@@ -1,15 +1,7 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\_error.js"],{
+webpackHotUpdate("static\\development\\pages\\_error.js",{
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js":
-/*!******************************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
-  \******************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ "./node_modules/core-js/library/fn/array/from.js");
-
-/***/ }),
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js?4437":
 /*!**********************************************************************************************************************************************!*\
@@ -22,16 +14,8 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ ".
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
-  \*******************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "./node_modules/core-js/library/fn/is-iterable.js");
-
-/***/ }),
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js?e7cc":
 /*!*********************************************************************************************************************************************!*\
@@ -44,6 +28,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "./
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/create.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/create.js?225a":
 /*!*********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
@@ -54,6 +41,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "./
 module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "./node_modules/core-js/library/fn/object/create.js?1557");
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js?36da":
 /*!******************************************************************************************************************************************************!*\
@@ -66,6 +56,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js?ba8b":
 /*!******************************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
@@ -76,6 +69,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-property-descriptor */ "./node_modules/core-js/library/fn/object/get-own-property-descriptor.js?a7e2");
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js?a248":
 /*!*******************************************************************************************************************************************************!*\
@@ -88,6 +84,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js?4411":
 /*!*******************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
@@ -98,6 +97,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype-of */ "./node_modules/core-js/library/fn/object/set-prototype-of.js?f1a1");
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/promise.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/promise.js?636b":
 /*!***************************************************************************************************************************************!*\
@@ -110,6 +112,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "./node_m
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/set.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/set.js?52b3":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
@@ -121,6 +126,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/set */ "./node_modul
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/symbol.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/symbol.js?efee":
 /*!**************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
@@ -131,6 +139,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/set */ "./node_modul
 module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "./node_modules/core-js/library/fn/symbol/index.js?3ce7");
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js?c771":
 /*!***********************************************************************************************************************************************!*\
@@ -166,6 +177,9 @@ module.exports = _arrayWithoutHoles;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js?df2a":
 /*!*****************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
@@ -184,6 +198,9 @@ function _assertThisInitialized(self) {
 module.exports = _assertThisInitialized;
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js?9d6c":
 /*!************************************************************************************************************************************************!*\
@@ -234,6 +251,9 @@ module.exports = _asyncToGenerator;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js?009e":
 /*!**********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
@@ -250,6 +270,9 @@ function _classCallCheck(instance, Constructor) {
 module.exports = _classCallCheck;
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/createClass.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/createClass.js?e1fc":
 /*!*******************************************************************************************************************************************!*\
@@ -281,6 +304,9 @@ module.exports = _createClass;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/defineProperty.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/defineProperty.js?a980":
 /*!**********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js ***!
@@ -309,6 +335,9 @@ module.exports = _defineProperty;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js?c775":
 /*!**********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
@@ -330,6 +359,9 @@ function _getPrototypeOf(o) {
 module.exports = _getPrototypeOf;
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/inherits.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/inherits.js?24fa":
 /*!****************************************************************************************************************************************!*\
@@ -361,6 +393,9 @@ module.exports = _inherits;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js?e356":
 /*!*****************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
@@ -377,6 +412,9 @@ function _interopRequireDefault(obj) {
 module.exports = _interopRequireDefault;
 
 /***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js?d0c1":
 /*!******************************************************************************************************************************************************!*\
@@ -418,39 +456,8 @@ module.exports = _interopRequireWildcard;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
-  \***********************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var _Array$from = __webpack_require__(/*! ../core-js/array/from */ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js");
-
-var _isIterable = __webpack_require__(/*! ../core-js/is-iterable */ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js");
-
-function _iterableToArray(iter) {
-  if (_isIterable(Object(iter)) || Object.prototype.toString.call(iter) === "[object Arguments]") return _Array$from(iter);
-}
-
-module.exports = _iterableToArray;
-
-/***/ }),
-
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
-  \*************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-function _nonIterableSpread() {
-  throw new TypeError("Invalid attempt to spread non-iterable instance");
-}
-
-module.exports = _nonIterableSpread;
-
-/***/ }),
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js?4a57":
 /*!*********************************************************************************************************************************************************!*\
@@ -475,6 +482,9 @@ module.exports = _possibleConstructorReturn;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js?425f":
 /*!**********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
@@ -497,26 +507,8 @@ module.exports = _setPrototypeOf;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
-  \*************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var arrayWithoutHoles = __webpack_require__(/*! ./arrayWithoutHoles */ "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js");
-
-var iterableToArray = __webpack_require__(/*! ./iterableToArray */ "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js");
-
-var nonIterableSpread = __webpack_require__(/*! ./nonIterableSpread */ "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js");
-
-function _toConsumableArray(arr) {
-  return arrayWithoutHoles(arr) || iterableToArray(arr) || nonIterableSpread();
-}
-
-module.exports = _toConsumableArray;
-
-/***/ }),
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/typeof.js":
+false,
 
 /***/ "./node_modules/@babel/runtime-corejs2/helpers/typeof.js?27dd":
 /*!**************************************************************************************************************************************!*\
@@ -549,6 +541,9 @@ module.exports = _typeof;
 
 /***/ }),
 
+/***/ "./node_modules/@babel/runtime-corejs2/regenerator/index.js":
+false,
+
 /***/ "./node_modules/@babel/runtime-corejs2/regenerator/index.js?57c7":
 /*!*****************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
@@ -574,6 +569,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "./node_modules/
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/fn/array/is-array.js":
+false,
 
 /***/ "./node_modules/core-js/library/fn/array/is-array.js?0e11":
 /*!**********************************************************************************************************************************!*\
@@ -602,6 +600,9 @@ module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "./node_
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/object/assign.js":
+false,
+
 /***/ "./node_modules/core-js/library/fn/object/assign.js?36e7":
 /*!*********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/fn/object/assign.js ***!
@@ -614,6 +615,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "./node_modules/
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/fn/object/create.js":
+false,
 
 /***/ "./node_modules/core-js/library/fn/object/create.js?1557":
 /*!*********************************************************************************************************************************!*\
@@ -631,6 +635,9 @@ module.exports = function create(P, D) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/object/define-property.js":
+false,
+
 /***/ "./node_modules/core-js/library/fn/object/define-property.js?616e":
 /*!******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/fn/object/define-property.js ***!
@@ -646,6 +653,9 @@ module.exports = function defineProperty(it, key, desc) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/fn/object/get-own-property-descriptor.js":
+false,
 
 /***/ "./node_modules/core-js/library/fn/object/get-own-property-descriptor.js?a7e2":
 /*!******************************************************************************************************************************************************!*\
@@ -663,6 +673,9 @@ module.exports = function getOwnPropertyDescriptor(it, key) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/object/get-prototype-of.js":
+false,
+
 /***/ "./node_modules/core-js/library/fn/object/get-prototype-of.js?4860":
 /*!*******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
@@ -676,6 +689,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "./node_modules/
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/object/set-prototype-of.js":
+false,
+
 /***/ "./node_modules/core-js/library/fn/object/set-prototype-of.js?f1a1":
 /*!*******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
@@ -688,6 +704,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "./node_modules/
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/fn/promise.js":
+false,
 
 /***/ "./node_modules/core-js/library/fn/promise.js?f996":
 /*!***************************************************************************************************************************!*\
@@ -706,6 +725,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "./node_modules/cor
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/fn/set.js":
+false,
 
 /***/ "./node_modules/core-js/library/fn/set.js?47b5":
 /*!***********************************************************************************************************************!*\
@@ -726,6 +748,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "./node_modules/cor
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/symbol/index.js":
+false,
+
 /***/ "./node_modules/core-js/library/fn/symbol/index.js?3ce7":
 /*!********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/fn/symbol/index.js ***!
@@ -742,6 +767,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "./node_modules/
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/symbol/iterator.js":
+false,
+
 /***/ "./node_modules/core-js/library/fn/symbol/iterator.js?af16":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/fn/symbol/iterator.js ***!
@@ -755,6 +783,9 @@ module.exports = __webpack_require__(/*! ../../modules/_wks-ext */ "./node_modul
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_a-function.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_a-function.js?5088":
 /*!************************************************************************************************************************************!*\
@@ -771,6 +802,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_add-to-unscopables.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_add-to-unscopables.js?54ca":
 /*!********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
@@ -782,6 +816,9 @@ module.exports = function () { /* empty */ };
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_an-instance.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_an-instance.js?0843":
 /*!*************************************************************************************************************************************!*\
@@ -799,6 +836,9 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_an-object.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_an-object.js?1615":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_an-object.js ***!
@@ -814,6 +854,9 @@ module.exports = function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_array-from-iterable.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_array-from-iterable.js?745b":
 /*!*********************************************************************************************************************************************!*\
@@ -832,6 +875,9 @@ module.exports = function (iter, ITERATOR) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_array-includes.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_array-includes.js?cefb":
 /*!****************************************************************************************************************************************!*\
@@ -866,6 +912,9 @@ module.exports = function (IS_INCLUDES) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_array-methods.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_array-methods.js?e3fe":
 /*!***************************************************************************************************************************************!*\
@@ -922,6 +971,9 @@ module.exports = function (TYPE, $create) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_array-species-constructor.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_array-species-constructor.js?1c16":
 /*!***************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_array-species-constructor.js ***!
@@ -949,6 +1001,9 @@ module.exports = function (original) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_array-species-create.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_array-species-create.js?d60c":
 /*!**********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_array-species-create.js ***!
@@ -965,6 +1020,9 @@ module.exports = function (original, length) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_classof.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_classof.js?8acf":
 /*!*********************************************************************************************************************************!*\
@@ -1000,6 +1058,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_cof.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_cof.js?e6c0":
 /*!*****************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_cof.js ***!
@@ -1015,6 +1076,9 @@ module.exports = function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_collection-strong.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_collection-strong.js?85a6":
 /*!*******************************************************************************************************************************************!*\
@@ -1172,6 +1236,9 @@ module.exports = {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_collection-to-json.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_collection-to-json.js?8c66":
 /*!********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_collection-to-json.js ***!
@@ -1191,6 +1258,9 @@ module.exports = function (NAME) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_collection.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_collection.js?d429":
 /*!************************************************************************************************************************************!*\
@@ -1263,6 +1333,9 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_core.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_core.js?3a75":
 /*!******************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_core.js ***!
@@ -1296,6 +1369,9 @@ module.exports = function (object, index, value) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_ctx.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_ctx.js?866e":
 /*!*****************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_ctx.js ***!
@@ -1327,6 +1403,9 @@ module.exports = function (fn, that, length) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_defined.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_defined.js?9f73":
 /*!*********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_defined.js ***!
@@ -1343,6 +1422,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_descriptors.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_descriptors.js?12dc":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_descriptors.js ***!
@@ -1357,6 +1439,9 @@ module.exports = !__webpack_require__(/*! ./_fails */ "./node_modules/core-js/li
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_dom-create.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_dom-create.js?902f":
 /*!************************************************************************************************************************************!*\
@@ -1376,6 +1461,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_enum-bug-keys.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_enum-bug-keys.js?36d5":
 /*!***************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
@@ -1390,6 +1478,9 @@ module.exports = (
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_enum-keys.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_enum-keys.js?99e1":
 /*!***********************************************************************************************************************************!*\
@@ -1416,6 +1507,9 @@ module.exports = function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_export.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_export.js?8136":
 /*!********************************************************************************************************************************!*\
@@ -1490,6 +1584,9 @@ module.exports = $export;
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_fails.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_fails.js?0ae0":
 /*!*******************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_fails.js ***!
@@ -1507,6 +1604,9 @@ module.exports = function (exec) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_for-of.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_for-of.js?bec2":
 /*!********************************************************************************************************************************!*\
@@ -1544,6 +1644,9 @@ exports.RETURN = RETURN;
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_global.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_global.js?5fcb":
 /*!********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_global.js ***!
@@ -1561,6 +1664,9 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_has.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_has.js?46dd":
 /*!*****************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_has.js ***!
@@ -1575,6 +1681,9 @@ module.exports = function (it, key) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_hide.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_hide.js?8ecc":
 /*!******************************************************************************************************************************!*\
@@ -1595,6 +1704,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "./node_modules/core-
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_html.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_html.js?afc1":
 /*!******************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_html.js ***!
@@ -1607,6 +1719,9 @@ module.exports = document && document.documentElement;
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_ie8-dom-define.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_ie8-dom-define.js?4e34":
 /*!****************************************************************************************************************************************!*\
@@ -1621,6 +1736,9 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "./node_modules/core
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_invoke.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_invoke.js?77e1":
 /*!********************************************************************************************************************************!*\
@@ -1649,6 +1767,9 @@ module.exports = function (fn, args, that) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_iobject.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_iobject.js?5bd9":
 /*!*********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_iobject.js ***!
@@ -1665,6 +1786,9 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_is-array-iter.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_is-array-iter.js?51bd":
 /*!***************************************************************************************************************************************!*\
@@ -1685,6 +1809,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_is-array.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_is-array.js?d8f7":
 /*!**********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_is-array.js ***!
@@ -1701,6 +1828,9 @@ module.exports = Array.isArray || function isArray(arg) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_is-object.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_is-object.js?7e01":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_is-object.js ***!
@@ -1714,6 +1844,9 @@ module.exports = function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-call.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_iter-call.js?350b":
 /*!***********************************************************************************************************************************!*\
@@ -1737,6 +1870,9 @@ module.exports = function (iterator, fn, value, entries) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-create.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_iter-create.js?1daf":
 /*!*************************************************************************************************************************************!*\
@@ -1762,6 +1898,9 @@ module.exports = function (Constructor, NAME, next) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-define.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_iter-define.js?c46d":
 /*!*************************************************************************************************************************************!*\
@@ -1844,6 +1983,9 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_iter-detect.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_iter-detect.js?5ac1":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_iter-detect.js ***!
@@ -1877,6 +2019,9 @@ module.exports = function (exec, skipClosing) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_iter-step.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_iter-step.js?c929":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_iter-step.js ***!
@@ -1891,6 +2036,9 @@ module.exports = function (done, value) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_iterators.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_iterators.js?c026":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_iterators.js ***!
@@ -1903,6 +2051,9 @@ module.exports = {};
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_library.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_library.js?da29":
 /*!*********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_library.js ***!
@@ -1914,6 +2065,9 @@ module.exports = true;
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_meta.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_meta.js?1bf7":
 /*!******************************************************************************************************************************!*\
@@ -1978,6 +2132,9 @@ var meta = module.exports = {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_microtask.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_microtask.js?72cc":
 /*!***********************************************************************************************************************************!*\
@@ -2059,6 +2216,9 @@ module.exports = function () {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_new-promise-capability.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_new-promise-capability.js?1412":
 /*!************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_new-promise-capability.js ***!
@@ -2088,6 +2248,9 @@ module.exports.f = function (C) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-assign.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-assign.js?f6e3":
 /*!***************************************************************************************************************************************!*\
@@ -2134,6 +2297,9 @@ module.exports = !$assign || __webpack_require__(/*! ./_fails */ "./node_modules
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-create.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-create.js?0dcb":
 /*!***************************************************************************************************************************************!*\
@@ -2187,6 +2353,9 @@ module.exports = Object.create || function create(O, Properties) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_object-dp.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_object-dp.js?8d9c":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_object-dp.js ***!
@@ -2214,6 +2383,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "./node_modules/core-js/li
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_object-dps.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_object-dps.js?9965":
 /*!************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_object-dps.js ***!
@@ -2237,6 +2409,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "./node_modules/core-
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-gopd.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-gopd.js?24bf":
 /*!*************************************************************************************************************************************!*\
@@ -2264,6 +2439,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "./node_modules/core-js/li
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-gopn-ext.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-gopn-ext.js?532c":
 /*!*****************************************************************************************************************************************!*\
@@ -2295,6 +2473,9 @@ module.exports.f = function getOwnPropertyNames(it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_object-gopn.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_object-gopn.js?b46c":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_object-gopn.js ***!
@@ -2313,6 +2494,9 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_object-gops.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_object-gops.js?bb68":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_object-gops.js ***!
@@ -2324,6 +2508,9 @@ exports.f = Object.getOwnPropertySymbols;
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-gpo.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-gpo.js?ae57":
 /*!************************************************************************************************************************************!*\
@@ -2348,6 +2535,9 @@ module.exports = Object.getPrototypeOf || function (O) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-keys-internal.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-keys-internal.js?966a":
 /*!**********************************************************************************************************************************************!*\
@@ -2377,6 +2567,9 @@ module.exports = function (object, names) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_object-keys.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_object-keys.js?a3c0":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_object-keys.js ***!
@@ -2395,6 +2588,9 @@ module.exports = Object.keys || function keys(O) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_object-pie.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_object-pie.js?2f5b":
 /*!************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_object-pie.js ***!
@@ -2406,6 +2602,9 @@ exports.f = {}.propertyIsEnumerable;
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-sap.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_object-sap.js?3874":
 /*!************************************************************************************************************************************!*\
@@ -2428,6 +2627,9 @@ module.exports = function (KEY, exec) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_perform.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_perform.js?ab3a":
 /*!*********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_perform.js ***!
@@ -2445,6 +2647,9 @@ module.exports = function (exec) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_promise-resolve.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_promise-resolve.js?539e":
 /*!*****************************************************************************************************************************************!*\
@@ -2469,6 +2674,9 @@ module.exports = function (C, x) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_property-desc.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_property-desc.js?d332":
 /*!***************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_property-desc.js ***!
@@ -2488,6 +2696,9 @@ module.exports = function (bitmap, value) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_redefine-all.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_redefine-all.js?c9e2":
 /*!**************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_redefine-all.js ***!
@@ -2506,6 +2717,9 @@ module.exports = function (target, src, safe) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_redefine.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_redefine.js?b613":
 /*!**********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_redefine.js ***!
@@ -2517,6 +2731,9 @@ module.exports = __webpack_require__(/*! ./_hide */ "./node_modules/core-js/libr
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_set-collection-from.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_set-collection-from.js?0f67":
 /*!*********************************************************************************************************************************************!*\
@@ -2558,6 +2775,9 @@ module.exports = function (COLLECTION) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_set-collection-of.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_set-collection-of.js?3eb6":
 /*!*******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_set-collection-of.js ***!
@@ -2581,6 +2801,9 @@ module.exports = function (COLLECTION) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_set-proto.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_set-proto.js?3c70":
 /*!***********************************************************************************************************************************!*\
@@ -2618,6 +2841,9 @@ module.exports = {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_set-species.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_set-species.js?a3ba":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_set-species.js ***!
@@ -2644,6 +2870,9 @@ module.exports = function (KEY) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_set-to-string-tag.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_set-to-string-tag.js?1cfe":
 /*!*******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
@@ -2662,6 +2891,9 @@ module.exports = function (it, tag, stat) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_shared-key.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_shared-key.js?d854":
 /*!************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_shared-key.js ***!
@@ -2677,6 +2909,9 @@ module.exports = function (key) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_shared.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_shared.js?76d4":
 /*!********************************************************************************************************************************!*\
@@ -2701,6 +2936,9 @@ var store = global[SHARED] || (global[SHARED] = {});
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_species-constructor.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_species-constructor.js?fa63":
 /*!*********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_species-constructor.js ***!
@@ -2720,6 +2958,9 @@ module.exports = function (O, D) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_string-at.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_string-at.js?d496":
 /*!***********************************************************************************************************************************!*\
@@ -2748,6 +2989,9 @@ module.exports = function (TO_STRING) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_task.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_task.js?e6b0":
 /*!******************************************************************************************************************************!*\
@@ -2844,6 +3088,9 @@ module.exports = {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_to-absolute-index.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_to-absolute-index.js?5186":
 /*!*******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_to-absolute-index.js ***!
@@ -2862,6 +3109,9 @@ module.exports = function (index, length) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_to-integer.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_to-integer.js?3b37":
 /*!************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_to-integer.js ***!
@@ -2878,6 +3128,9 @@ module.exports = function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-iobject.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_to-iobject.js?7b6b":
 /*!************************************************************************************************************************************!*\
@@ -2896,6 +3149,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_to-length.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_to-length.js?cdfd":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_to-length.js ***!
@@ -2913,6 +3169,9 @@ module.exports = function (it) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_to-object.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_to-object.js?6a50":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_to-object.js ***!
@@ -2928,6 +3187,9 @@ module.exports = function (it) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-primitive.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_to-primitive.js?6cca":
 /*!**************************************************************************************************************************************!*\
@@ -2952,6 +3214,9 @@ module.exports = function (it, S) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_uid.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_uid.js?a414":
 /*!*****************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_uid.js ***!
@@ -2968,6 +3233,9 @@ module.exports = function (key) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_user-agent.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_user-agent.js?5980":
 /*!************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_user-agent.js ***!
@@ -2982,6 +3250,9 @@ module.exports = navigator && navigator.userAgent || '';
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_validate-collection.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_validate-collection.js?ab8e":
 /*!*********************************************************************************************************************************************!*\
@@ -2998,6 +3269,9 @@ module.exports = function (it, TYPE) {
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_wks-define.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_wks-define.js?84b0":
 /*!************************************************************************************************************************************!*\
@@ -3019,6 +3293,9 @@ module.exports = function (name) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/_wks-ext.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/_wks-ext.js?9b01":
 /*!*********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/_wks-ext.js ***!
@@ -3030,6 +3307,9 @@ exports.f = __webpack_require__(/*! ./_wks */ "./node_modules/core-js/library/mo
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_wks.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/_wks.js?7d6d":
 /*!*****************************************************************************************************************************!*\
@@ -3052,6 +3332,9 @@ $exports.store = store;
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/core.get-iterator-method.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/core.get-iterator-method.js?5e0d":
 /*!*************************************************************************************************************************************************!*\
@@ -3142,6 +3425,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_iter-detect */ "./no
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.array.is-array.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.array.is-array.js?2b84":
 /*!*******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.array.is-array.js ***!
@@ -3156,6 +3442,9 @@ $export($export.S, 'Array', { isArray: __webpack_require__(/*! ./_is-array */ ".
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.array.iterator.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/es6.array.iterator.js?c7a9":
 /*!*******************************************************************************************************************************************!*\
@@ -3203,6 +3492,9 @@ addToUnscopables('entries');
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.object.assign.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.object.assign.js?0383":
 /*!******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.object.assign.js ***!
@@ -3218,6 +3510,9 @@ $export($export.S + $export.F, 'Object', { assign: __webpack_require__(/*! ./_ob
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.object.create.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.object.create.js?b95a":
 /*!******************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.object.create.js ***!
@@ -3232,6 +3527,9 @@ $export($export.S, 'Object', { create: __webpack_require__(/*! ./_object-create 
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.object.define-property.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.object.define-property.js?44d4":
 /*!***************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.object.define-property.js ***!
@@ -3245,6 +3543,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "./no
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js?4b19":
 /*!***************************************************************************************************************************************************************!*\
@@ -3266,6 +3567,9 @@ __webpack_require__(/*! ./_object-sap */ "./node_modules/core-js/library/modules
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js?f9c1":
 /*!****************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
@@ -3286,6 +3590,9 @@ __webpack_require__(/*! ./_object-sap */ "./node_modules/core-js/library/modules
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js?a74d":
 /*!****************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
@@ -3300,6 +3607,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.object.to-string.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.object.to-string.js?02d2":
 /*!*********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.object.to-string.js ***!
@@ -3310,6 +3620,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.promise.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/es6.promise.js?d86b":
 /*!************************************************************************************************************************************!*\
@@ -3609,6 +3922,9 @@ $export($export.S + $export.F * !(USE_NATIVE && __webpack_require__(/*! ./_iter-
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es6.set.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es6.set.js?46ba":
 /*!********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es6.set.js ***!
@@ -3634,6 +3950,9 @@ module.exports = __webpack_require__(/*! ./_collection */ "./node_modules/core-j
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.string.iterator.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/es6.string.iterator.js?a855":
 /*!********************************************************************************************************************************************!*\
@@ -3663,6 +3982,9 @@ __webpack_require__(/*! ./_iter-define */ "./node_modules/core-js/library/module
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.symbol.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/es6.symbol.js?8d82":
 /*!***********************************************************************************************************************************!*\
@@ -3910,6 +4232,9 @@ setToStringTag(global.JSON, 'JSON', true);
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es7.promise.finally.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es7.promise.finally.js?b9f5":
 /*!********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es7.promise.finally.js ***!
@@ -3942,6 +4267,9 @@ $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es7.promise.try.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es7.promise.try.js?9241":
 /*!****************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es7.promise.try.js ***!
@@ -3966,6 +4294,9 @@ $export($export.S, 'Promise', { 'try': function (callbackfn) {
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es7.set.from.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es7.set.from.js?df0f":
 /*!*************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es7.set.from.js ***!
@@ -3979,6 +4310,9 @@ __webpack_require__(/*! ./_set-collection-from */ "./node_modules/core-js/librar
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es7.set.of.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es7.set.of.js?efd1":
 /*!***********************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es7.set.of.js ***!
@@ -3991,6 +4325,9 @@ __webpack_require__(/*! ./_set-collection-of */ "./node_modules/core-js/library/
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es7.set.to-json.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/es7.set.to-json.js?0330":
 /*!****************************************************************************************************************************************!*\
@@ -4007,6 +4344,9 @@ $export($export.P + $export.R, 'Set', { toJSON: __webpack_require__(/*! ./_colle
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js?8384":
 /*!**************************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
@@ -4019,6 +4359,9 @@ __webpack_require__(/*! ./_wks-define */ "./node_modules/core-js/library/modules
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/modules/es7.symbol.observable.js":
+false,
+
 /***/ "./node_modules/core-js/library/modules/es7.symbol.observable.js?f4e1":
 /*!**********************************************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
@@ -4030,6 +4373,9 @@ __webpack_require__(/*! ./_wks-define */ "./node_modules/core-js/library/modules
 
 
 /***/ }),
+
+/***/ "./node_modules/core-js/library/modules/web.dom.iterable.js":
+false,
 
 /***/ "./node_modules/core-js/library/modules/web.dom.iterable.js?469f":
 /*!*****************************************************************************************************************************************!*\
@@ -4057,140 +4403,6 @@ for (var i = 0; i < DOMIterables.length; i++) {
   if (proto && !proto[TO_STRING_TAG]) hide(proto, TO_STRING_TAG, NAME);
   Iterators[NAME] = Iterators.Array;
 }
-
-
-/***/ }),
-
-/***/ "./node_modules/http-status/lib/index.js":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/http-status/lib/index.js ***!
-  \**********************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-// Generated by CoffeeScript 1.10.0
-module.exports = {
-  100: 'Continue',
-  101: 'Switching Protocols',
-  200: 'OK',
-  201: 'Created',
-  202: 'Accepted',
-  203: 'Non-Authoritative Information',
-  204: 'No Content',
-  205: 'Reset Content',
-  206: 'Partial Content',
-  207: 'Multi Status',
-  208: 'Already Reported',
-  226: 'IM Used',
-  300: 'Multiple Choices',
-  301: 'Moved Permanently',
-  302: 'Found',
-  303: 'See Other',
-  304: 'Not Modified',
-  305: 'Use Proxy',
-  306: 'Switch Proxy',
-  307: 'Temporary Redirect',
-  308: 'Permanent Redirect',
-  400: 'Bad Request',
-  401: 'Unauthorized',
-  402: 'Payment Required',
-  403: 'Forbidden',
-  404: 'Not Found',
-  405: 'Method Not Allowed',
-  406: 'Not Acceptable',
-  407: 'Proxy Authentication Required',
-  408: 'Request Time-out',
-  409: 'Conflict',
-  410: 'Gone',
-  411: 'Length Required',
-  412: 'Precondition Failed',
-  413: 'Request Entity Too Large',
-  414: 'Request-URI Too Large',
-  415: 'Unsupported Media Type',
-  416: 'Requested Range not Satisfiable',
-  417: 'Expectation Failed',
-  418: 'I\'m a teapot',
-  421: 'Misdirected Request',
-  422: 'Unprocessable Entity',
-  423: 'Locked',
-  424: 'Failed Dependency',
-  426: 'Upgrade Required',
-  428: 'Precondition Required',
-  429: 'Too Many Requests',
-  431: 'Request Header Fields Too Large',
-  451: 'Unavailable For Legal Reasons',
-  500: 'Internal Server Error',
-  501: 'Not Implemented',
-  502: 'Bad Gateway',
-  503: 'Service Unavailable',
-  504: 'Gateway Time-out',
-  505: 'HTTP Version not Supported',
-  506: 'Variant Also Negotiates',
-  507: 'Insufficient Storage',
-  508: 'Loop Detected',
-  510: 'Not Extended',
-  511: 'Network Authentication Required',
-  CONTINUE: 100,
-  SWITCHING_PROTOCOLS: 101,
-  OK: 200,
-  CREATED: 201,
-  ACCEPTED: 202,
-  NON_AUTHORITATIVE_INFORMATION: 203,
-  NO_CONTENT: 204,
-  RESET_CONTENT: 205,
-  PARTIAL_CONTENT: 206,
-  MULTI_STATUS: 207,
-  ALREADY_REPORTED: 208,
-  IM_USED: 226,
-  MULTIPLE_CHOICES: 300,
-  MOVED_PERMANENTLY: 301,
-  FOUND: 302,
-  SEE_OTHER: 303,
-  NOT_MODIFIED: 304,
-  USE_PROXY: 305,
-  SWITCH_PROXY: 306,
-  TEMPORARY_REDIRECT: 307,
-  PERMANENT_REDIRECT: 308,
-  BAD_REQUEST: 400,
-  UNAUTHORIZED: 401,
-  PAYMENT_REQUIRED: 402,
-  FORBIDDEN: 403,
-  NOT_FOUND: 404,
-  METHOD_NOT_ALLOWED: 405,
-  NOT_ACCEPTABLE: 406,
-  PROXY_AUTHENTICATION_REQUIRED: 407,
-  REQUEST_TIMEOUT: 408,
-  CONFLICT: 409,
-  GONE: 410,
-  LENGTH_REQUIRED: 411,
-  PRECONDITION_FAILED: 412,
-  REQUEST_ENTITY_TOO_LARGE: 413,
-  REQUEST_URI_TOO_LONG: 414,
-  UNSUPPORTED_MEDIA_TYPE: 415,
-  REQUESTED_RANGE_NOT_SATISFIABLE: 416,
-  EXPECTATION_FAILED: 417,
-  IM_A_TEAPOT: 418,
-  MISDIRECTED_REQUEST: 421,
-  UNPROCESSABLE_ENTITY: 422,
-  UPGRADE_REQUIRED: 426,
-  PRECONDITION_REQUIRED: 428,
-  LOCKED: 423,
-  FAILED_DEPENDENCY: 424,
-  TOO_MANY_REQUESTS: 429,
-  REQUEST_HEADER_FIELDS_TOO_LARGE: 431,
-  UNAVAILABLE_FOR_LEGAL_REASONS: 451,
-  INTERNAL_SERVER_ERROR: 500,
-  NOT_IMPLEMENTED: 501,
-  BAD_GATEWAY: 502,
-  SERVICE_UNAVAILABLE: 503,
-  GATEWAY_TIMEOUT: 504,
-  HTTP_VERSION_NOT_SUPPORTED: 505,
-  VARIANT_ALSO_NEGOTIATES: 506,
-  INSUFFICIENT_STORAGE: 507,
-  LOOP_DETECTED: 508,
-  NOT_EXTENDED: 510,
-  NETWORK_AUTHENTICATION_REQUIRED: 511
-};
 
 
 /***/ }),
@@ -4625,6 +4837,9 @@ function withSideEffect(reduceComponentsToState, handleStateChangeOnClient, mapS
 
 /***/ }),
 
+/***/ "./node_modules/next/dist/lib/utils.js":
+false,
+
 /***/ "./node_modules/next/dist/lib/utils.js?2f55":
 /*!********************************************************************************************************************!*\
   !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/next/dist/lib/utils.js ***!
@@ -4812,1677 +5027,7 @@ function getURL() {
 }
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../process/browser.js */ "./node_modules/process/browser.js?18f0")))
 
-/***/ }),
-
-/***/ "./node_modules/next/dist/pages/_error.js":
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/next/dist/pages/_error.js ***!
-  \***********************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! next/error */ "./node_modules/next/error.js")
-
-
-/***/ }),
-
-/***/ "./node_modules/next/error.js":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/next/error.js ***!
-  \***********************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! ./dist/lib/error */ "./node_modules/next/dist/lib/error.js")
-
-
-/***/ }),
-
-/***/ "./node_modules/object-assign/index.js":
-/*!***************************************************************************************************!*\
-  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_18682c416555df0bf0b9 ***!
-  \***************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_18682c416555df0bf0b9 */ "dll-reference dll_18682c416555df0bf0b9"))("./node_modules/object-assign/index.js");
-
-/***/ }),
-
-/***/ "./node_modules/process/browser.js?18f0":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/process/browser.js ***!
-  \****************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-// shim for using process in browser
-var process = module.exports = {};
-
-// cached from whatever global is present so that test runners that stub it
-// don't break things.  But we need to wrap it in a try catch in case it is
-// wrapped in strict mode code which doesn't define any globals.  It's inside a
-// function because try/catches deoptimize in certain engines.
-
-var cachedSetTimeout;
-var cachedClearTimeout;
-
-function defaultSetTimout() {
-    throw new Error('setTimeout has not been defined');
-}
-function defaultClearTimeout () {
-    throw new Error('clearTimeout has not been defined');
-}
-(function () {
-    try {
-        if (typeof setTimeout === 'function') {
-            cachedSetTimeout = setTimeout;
-        } else {
-            cachedSetTimeout = defaultSetTimout;
-        }
-    } catch (e) {
-        cachedSetTimeout = defaultSetTimout;
-    }
-    try {
-        if (typeof clearTimeout === 'function') {
-            cachedClearTimeout = clearTimeout;
-        } else {
-            cachedClearTimeout = defaultClearTimeout;
-        }
-    } catch (e) {
-        cachedClearTimeout = defaultClearTimeout;
-    }
-} ())
-function runTimeout(fun) {
-    if (cachedSetTimeout === setTimeout) {
-        //normal enviroments in sane situations
-        return setTimeout(fun, 0);
-    }
-    // if setTimeout wasn't available but was latter defined
-    if ((cachedSetTimeout === defaultSetTimout || !cachedSetTimeout) && setTimeout) {
-        cachedSetTimeout = setTimeout;
-        return setTimeout(fun, 0);
-    }
-    try {
-        // when when somebody has screwed with setTimeout but no I.E. maddness
-        return cachedSetTimeout(fun, 0);
-    } catch(e){
-        try {
-            // When we are in I.E. but the script has been evaled so I.E. doesn't trust the global object when called normally
-            return cachedSetTimeout.call(null, fun, 0);
-        } catch(e){
-            // same as above but when it's a version of I.E. that must have the global object for 'this', hopfully our context correct otherwise it will throw a global error
-            return cachedSetTimeout.call(this, fun, 0);
-        }
-    }
-
-
-}
-function runClearTimeout(marker) {
-    if (cachedClearTimeout === clearTimeout) {
-        //normal enviroments in sane situations
-        return clearTimeout(marker);
-    }
-    // if clearTimeout wasn't available but was latter defined
-    if ((cachedClearTimeout === defaultClearTimeout || !cachedClearTimeout) && clearTimeout) {
-        cachedClearTimeout = clearTimeout;
-        return clearTimeout(marker);
-    }
-    try {
-        // when when somebody has screwed with setTimeout but no I.E. maddness
-        return cachedClearTimeout(marker);
-    } catch (e){
-        try {
-            // When we are in I.E. but the script has been evaled so I.E. doesn't  trust the global object when called normally
-            return cachedClearTimeout.call(null, marker);
-        } catch (e){
-            // same as above but when it's a version of I.E. that must have the global object for 'this', hopfully our context correct otherwise it will throw a global error.
-            // Some versions of I.E. have different rules for clearTimeout vs setTimeout
-            return cachedClearTimeout.call(this, marker);
-        }
-    }
-
-
-
-}
-var queue = [];
-var draining = false;
-var currentQueue;
-var queueIndex = -1;
-
-function cleanUpNextTick() {
-    if (!draining || !currentQueue) {
-        return;
-    }
-    draining = false;
-    if (currentQueue.length) {
-        queue = currentQueue.concat(queue);
-    } else {
-        queueIndex = -1;
-    }
-    if (queue.length) {
-        drainQueue();
-    }
-}
-
-function drainQueue() {
-    if (draining) {
-        return;
-    }
-    var timeout = runTimeout(cleanUpNextTick);
-    draining = true;
-
-    var len = queue.length;
-    while(len) {
-        currentQueue = queue;
-        queue = [];
-        while (++queueIndex < len) {
-            if (currentQueue) {
-                currentQueue[queueIndex].run();
-            }
-        }
-        queueIndex = -1;
-        len = queue.length;
-    }
-    currentQueue = null;
-    draining = false;
-    runClearTimeout(timeout);
-}
-
-process.nextTick = function (fun) {
-    var args = new Array(arguments.length - 1);
-    if (arguments.length > 1) {
-        for (var i = 1; i < arguments.length; i++) {
-            args[i - 1] = arguments[i];
-        }
-    }
-    queue.push(new Item(fun, args));
-    if (queue.length === 1 && !draining) {
-        runTimeout(drainQueue);
-    }
-};
-
-// v8 likes predictible objects
-function Item(fun, array) {
-    this.fun = fun;
-    this.array = array;
-}
-Item.prototype.run = function () {
-    this.fun.apply(null, this.array);
-};
-process.title = 'browser';
-process.browser = true;
-process.env = {};
-process.argv = [];
-process.version = ''; // empty string to avoid regexp issues
-process.versions = {};
-
-function noop() {}
-
-process.on = noop;
-process.addListener = noop;
-process.once = noop;
-process.off = noop;
-process.removeListener = noop;
-process.removeAllListeners = noop;
-process.emit = noop;
-process.prependListener = noop;
-process.prependOnceListener = noop;
-
-process.listeners = function (name) { return [] }
-
-process.binding = function (name) {
-    throw new Error('process.binding is not supported');
-};
-
-process.cwd = function () { return '/' };
-process.chdir = function (dir) {
-    throw new Error('process.chdir is not supported');
-};
-process.umask = function() { return 0; };
-
-
-/***/ }),
-
-/***/ "./node_modules/prop-types/checkPropTypes.js":
-/*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_18682c416555df0bf0b9 ***!
-  \*********************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_18682c416555df0bf0b9 */ "dll-reference dll_18682c416555df0bf0b9"))("./node_modules/prop-types/checkPropTypes.js");
-
-/***/ }),
-
-/***/ "./node_modules/prop-types/factoryWithTypeCheckers.js?4cc8":
-/*!***********************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/prop-types/factoryWithTypeCheckers.js ***!
-  \***********************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
-
-var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/prop-types/lib/ReactPropTypesSecret.js");
-var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/prop-types/checkPropTypes.js");
-
-var printWarning = function() {};
-
-if (true) {
-  printWarning = function(text) {
-    var message = 'Warning: ' + text;
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  };
-}
-
-function emptyFunctionThatReturnsNull() {
-  return null;
-}
-
-module.exports = function(isValidElement, throwOnDirectAccess) {
-  /* global Symbol */
-  var ITERATOR_SYMBOL = typeof Symbol === 'function' && Symbol.iterator;
-  var FAUX_ITERATOR_SYMBOL = '@@iterator'; // Before Symbol spec.
-
-  /**
-   * Returns the iterator method function contained on the iterable object.
-   *
-   * Be sure to invoke the function with the iterable as context:
-   *
-   *     var iteratorFn = getIteratorFn(myIterable);
-   *     if (iteratorFn) {
-   *       var iterator = iteratorFn.call(myIterable);
-   *       ...
-   *     }
-   *
-   * @param {?object} maybeIterable
-   * @return {?function}
-   */
-  function getIteratorFn(maybeIterable) {
-    var iteratorFn = maybeIterable && (ITERATOR_SYMBOL && maybeIterable[ITERATOR_SYMBOL] || maybeIterable[FAUX_ITERATOR_SYMBOL]);
-    if (typeof iteratorFn === 'function') {
-      return iteratorFn;
-    }
-  }
-
-  /**
-   * Collection of methods that allow declaration and validation of props that are
-   * supplied to React components. Example usage:
-   *
-   *   var Props = require('ReactPropTypes');
-   *   var MyArticle = React.createClass({
-   *     propTypes: {
-   *       // An optional string prop named "description".
-   *       description: Props.string,
-   *
-   *       // A required enum prop named "category".
-   *       category: Props.oneOf(['News','Photos']).isRequired,
-   *
-   *       // A prop named "dialog" that requires an instance of Dialog.
-   *       dialog: Props.instanceOf(Dialog).isRequired
-   *     },
-   *     render: function() { ... }
-   *   });
-   *
-   * A more formal specification of how these methods are used:
-   *
-   *   type := array|bool|func|object|number|string|oneOf([...])|instanceOf(...)
-   *   decl := ReactPropTypes.{type}(.isRequired)?
-   *
-   * Each and every declaration produces a function with the same signature. This
-   * allows the creation of custom validation functions. For example:
-   *
-   *  var MyLink = React.createClass({
-   *    propTypes: {
-   *      // An optional string or URI prop named "href".
-   *      href: function(props, propName, componentName) {
-   *        var propValue = props[propName];
-   *        if (propValue != null && typeof propValue !== 'string' &&
-   *            !(propValue instanceof URI)) {
-   *          return new Error(
-   *            'Expected a string or an URI for ' + propName + ' in ' +
-   *            componentName
-   *          );
-   *        }
-   *      }
-   *    },
-   *    render: function() {...}
-   *  });
-   *
-   * @internal
-   */
-
-  var ANONYMOUS = '<<anonymous>>';
-
-  // Important!
-  // Keep this list in sync with production version in `./factoryWithThrowingShims.js`.
-  var ReactPropTypes = {
-    array: createPrimitiveTypeChecker('array'),
-    bool: createPrimitiveTypeChecker('boolean'),
-    func: createPrimitiveTypeChecker('function'),
-    number: createPrimitiveTypeChecker('number'),
-    object: createPrimitiveTypeChecker('object'),
-    string: createPrimitiveTypeChecker('string'),
-    symbol: createPrimitiveTypeChecker('symbol'),
-
-    any: createAnyTypeChecker(),
-    arrayOf: createArrayOfTypeChecker,
-    element: createElementTypeChecker(),
-    instanceOf: createInstanceTypeChecker,
-    node: createNodeChecker(),
-    objectOf: createObjectOfTypeChecker,
-    oneOf: createEnumTypeChecker,
-    oneOfType: createUnionTypeChecker,
-    shape: createShapeTypeChecker,
-    exact: createStrictShapeTypeChecker,
-  };
-
-  /**
-   * inlined Object.is polyfill to avoid requiring consumers ship their own
-   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
-   */
-  /*eslint-disable no-self-compare*/
-  function is(x, y) {
-    // SameValue algorithm
-    if (x === y) {
-      // Steps 1-5, 7-10
-      // Steps 6.b-6.e: +0 != -0
-      return x !== 0 || 1 / x === 1 / y;
-    } else {
-      // Step 6.a: NaN == NaN
-      return x !== x && y !== y;
-    }
-  }
-  /*eslint-enable no-self-compare*/
-
-  /**
-   * We use an Error-like object for backward compatibility as people may call
-   * PropTypes directly and inspect their output. However, we don't use real
-   * Errors anymore. We don't inspect their stack anyway, and creating them
-   * is prohibitively expensive if they are created too often, such as what
-   * happens in oneOfType() for any type before the one that matched.
-   */
-  function PropTypeError(message) {
-    this.message = message;
-    this.stack = '';
-  }
-  // Make `instanceof Error` still work for returned errors.
-  PropTypeError.prototype = Error.prototype;
-
-  function createChainableTypeChecker(validate) {
-    if (true) {
-      var manualPropTypeCallCache = {};
-      var manualPropTypeWarningCount = 0;
-    }
-    function checkType(isRequired, props, propName, componentName, location, propFullName, secret) {
-      componentName = componentName || ANONYMOUS;
-      propFullName = propFullName || propName;
-
-      if (secret !== ReactPropTypesSecret) {
-        if (throwOnDirectAccess) {
-          // New behavior only for users of `prop-types` package
-          var err = new Error(
-            'Calling PropTypes validators directly is not supported by the `prop-types` package. ' +
-            'Use `PropTypes.checkPropTypes()` to call them. ' +
-            'Read more at http://fb.me/use-check-prop-types'
-          );
-          err.name = 'Invariant Violation';
-          throw err;
-        } else if ("development" !== 'production' && typeof console !== 'undefined') {
-          // Old behavior for people using React.PropTypes
-          var cacheKey = componentName + ':' + propName;
-          if (
-            !manualPropTypeCallCache[cacheKey] &&
-            // Avoid spamming the console because they are often not actionable except for lib authors
-            manualPropTypeWarningCount < 3
-          ) {
-            printWarning(
-              'You are manually calling a React.PropTypes validation ' +
-              'function for the `' + propFullName + '` prop on `' + componentName  + '`. This is deprecated ' +
-              'and will throw in the standalone `prop-types` package. ' +
-              'You may be seeing this warning due to a third-party PropTypes ' +
-              'library. See https://fb.me/react-warning-dont-call-proptypes ' + 'for details.'
-            );
-            manualPropTypeCallCache[cacheKey] = true;
-            manualPropTypeWarningCount++;
-          }
-        }
-      }
-      if (props[propName] == null) {
-        if (isRequired) {
-          if (props[propName] === null) {
-            return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required ' + ('in `' + componentName + '`, but its value is `null`.'));
-          }
-          return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required in ' + ('`' + componentName + '`, but its value is `undefined`.'));
-        }
-        return null;
-      } else {
-        return validate(props, propName, componentName, location, propFullName);
-      }
-    }
-
-    var chainedCheckType = checkType.bind(null, false);
-    chainedCheckType.isRequired = checkType.bind(null, true);
-
-    return chainedCheckType;
-  }
-
-  function createPrimitiveTypeChecker(expectedType) {
-    function validate(props, propName, componentName, location, propFullName, secret) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== expectedType) {
-        // `propValue` being instance of, say, date/regexp, pass the 'object'
-        // check, but we can offer a more precise error message here rather than
-        // 'of type `object`'.
-        var preciseType = getPreciseType(propValue);
-
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createAnyTypeChecker() {
-    return createChainableTypeChecker(emptyFunctionThatReturnsNull);
-  }
-
-  function createArrayOfTypeChecker(typeChecker) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (typeof typeChecker !== 'function') {
-        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside arrayOf.');
-      }
-      var propValue = props[propName];
-      if (!Array.isArray(propValue)) {
-        var propType = getPropType(propValue);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an array.'));
-      }
-      for (var i = 0; i < propValue.length; i++) {
-        var error = typeChecker(propValue, i, componentName, location, propFullName + '[' + i + ']', ReactPropTypesSecret);
-        if (error instanceof Error) {
-          return error;
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createElementTypeChecker() {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      if (!isValidElement(propValue)) {
-        var propType = getPropType(propValue);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected a single ReactElement.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createInstanceTypeChecker(expectedClass) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (!(props[propName] instanceof expectedClass)) {
-        var expectedClassName = expectedClass.name || ANONYMOUS;
-        var actualClassName = getClassName(props[propName]);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + actualClassName + '` supplied to `' + componentName + '`, expected ') + ('instance of `' + expectedClassName + '`.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createEnumTypeChecker(expectedValues) {
-    if (!Array.isArray(expectedValues)) {
-       true ? printWarning('Invalid argument supplied to oneOf, expected an instance of array.') : undefined;
-      return emptyFunctionThatReturnsNull;
-    }
-
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      for (var i = 0; i < expectedValues.length; i++) {
-        if (is(propValue, expectedValues[i])) {
-          return null;
-        }
-      }
-
-      var valuesString = JSON.stringify(expectedValues);
-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of value `' + propValue + '` ' + ('supplied to `' + componentName + '`, expected one of ' + valuesString + '.'));
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createObjectOfTypeChecker(typeChecker) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (typeof typeChecker !== 'function') {
-        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside objectOf.');
-      }
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an object.'));
-      }
-      for (var key in propValue) {
-        if (propValue.hasOwnProperty(key)) {
-          var error = typeChecker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-          if (error instanceof Error) {
-            return error;
-          }
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createUnionTypeChecker(arrayOfTypeCheckers) {
-    if (!Array.isArray(arrayOfTypeCheckers)) {
-       true ? printWarning('Invalid argument supplied to oneOfType, expected an instance of array.') : undefined;
-      return emptyFunctionThatReturnsNull;
-    }
-
-    for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
-      var checker = arrayOfTypeCheckers[i];
-      if (typeof checker !== 'function') {
-        printWarning(
-          'Invalid argument supplied to oneOfType. Expected an array of check functions, but ' +
-          'received ' + getPostfixForTypeWarning(checker) + ' at index ' + i + '.'
-        );
-        return emptyFunctionThatReturnsNull;
-      }
-    }
-
-    function validate(props, propName, componentName, location, propFullName) {
-      for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
-        var checker = arrayOfTypeCheckers[i];
-        if (checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret) == null) {
-          return null;
-        }
-      }
-
-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`.'));
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createNodeChecker() {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (!isNode(props[propName])) {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`, expected a ReactNode.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createShapeTypeChecker(shapeTypes) {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
-      }
-      for (var key in shapeTypes) {
-        var checker = shapeTypes[key];
-        if (!checker) {
-          continue;
-        }
-        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-        if (error) {
-          return error;
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createStrictShapeTypeChecker(shapeTypes) {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
-      }
-      // We need to check all keys in case some are required but missing from
-      // props.
-      var allKeys = assign({}, props[propName], shapeTypes);
-      for (var key in allKeys) {
-        var checker = shapeTypes[key];
-        if (!checker) {
-          return new PropTypeError(
-            'Invalid ' + location + ' `' + propFullName + '` key `' + key + '` supplied to `' + componentName + '`.' +
-            '\nBad object: ' + JSON.stringify(props[propName], null, '  ') +
-            '\nValid keys: ' +  JSON.stringify(Object.keys(shapeTypes), null, '  ')
-          );
-        }
-        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-        if (error) {
-          return error;
-        }
-      }
-      return null;
-    }
-
-    return createChainableTypeChecker(validate);
-  }
-
-  function isNode(propValue) {
-    switch (typeof propValue) {
-      case 'number':
-      case 'string':
-      case 'undefined':
-        return true;
-      case 'boolean':
-        return !propValue;
-      case 'object':
-        if (Array.isArray(propValue)) {
-          return propValue.every(isNode);
-        }
-        if (propValue === null || isValidElement(propValue)) {
-          return true;
-        }
-
-        var iteratorFn = getIteratorFn(propValue);
-        if (iteratorFn) {
-          var iterator = iteratorFn.call(propValue);
-          var step;
-          if (iteratorFn !== propValue.entries) {
-            while (!(step = iterator.next()).done) {
-              if (!isNode(step.value)) {
-                return false;
-              }
-            }
-          } else {
-            // Iterator will provide entry [k,v] tuples rather than values.
-            while (!(step = iterator.next()).done) {
-              var entry = step.value;
-              if (entry) {
-                if (!isNode(entry[1])) {
-                  return false;
-                }
-              }
-            }
-          }
-        } else {
-          return false;
-        }
-
-        return true;
-      default:
-        return false;
-    }
-  }
-
-  function isSymbol(propType, propValue) {
-    // Native Symbol.
-    if (propType === 'symbol') {
-      return true;
-    }
-
-    // 19.4.3.5 Symbol.prototype[@@toStringTag] === 'Symbol'
-    if (propValue['@@toStringTag'] === 'Symbol') {
-      return true;
-    }
-
-    // Fallback for non-spec compliant Symbols which are polyfilled.
-    if (typeof Symbol === 'function' && propValue instanceof Symbol) {
-      return true;
-    }
-
-    return false;
-  }
-
-  // Equivalent of `typeof` but with special handling for array and regexp.
-  function getPropType(propValue) {
-    var propType = typeof propValue;
-    if (Array.isArray(propValue)) {
-      return 'array';
-    }
-    if (propValue instanceof RegExp) {
-      // Old webkits (at least until Android 4.0) return 'function' rather than
-      // 'object' for typeof a RegExp. We'll normalize this here so that /bla/
-      // passes PropTypes.object.
-      return 'object';
-    }
-    if (isSymbol(propType, propValue)) {
-      return 'symbol';
-    }
-    return propType;
-  }
-
-  // This handles more types than `getPropType`. Only used for error messages.
-  // See `createPrimitiveTypeChecker`.
-  function getPreciseType(propValue) {
-    if (typeof propValue === 'undefined' || propValue === null) {
-      return '' + propValue;
-    }
-    var propType = getPropType(propValue);
-    if (propType === 'object') {
-      if (propValue instanceof Date) {
-        return 'date';
-      } else if (propValue instanceof RegExp) {
-        return 'regexp';
-      }
-    }
-    return propType;
-  }
-
-  // Returns a string that is postfixed to a warning about an invalid type.
-  // For example, "undefined" or "of type array"
-  function getPostfixForTypeWarning(value) {
-    var type = getPreciseType(value);
-    switch (type) {
-      case 'array':
-      case 'object':
-        return 'an ' + type;
-      case 'boolean':
-      case 'date':
-      case 'regexp':
-        return 'a ' + type;
-      default:
-        return type;
-    }
-  }
-
-  // Returns class name of the object, if any.
-  function getClassName(propValue) {
-    if (!propValue.constructor || !propValue.constructor.name) {
-      return ANONYMOUS;
-    }
-    return propValue.constructor.name;
-  }
-
-  ReactPropTypes.checkPropTypes = checkPropTypes;
-  ReactPropTypes.PropTypes = ReactPropTypes;
-
-  return ReactPropTypes;
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/prop-types/index.js?5d70":
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/prop-types/index.js ***!
-  \*****************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-if (true) {
-  var REACT_ELEMENT_TYPE = (typeof Symbol === 'function' &&
-    Symbol.for &&
-    Symbol.for('react.element')) ||
-    0xeac7;
-
-  var isValidElement = function(object) {
-    return typeof object === 'object' &&
-      object !== null &&
-      object.$$typeof === REACT_ELEMENT_TYPE;
-  };
-
-  // By explicitly using `prop-types` you are opting into new development behavior.
-  // http://fb.me/prop-types-in-prod
-  var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js?4cc8")(isValidElement, throwOnDirectAccess);
-} else {}
-
-
-/***/ }),
-
-/***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_18682c416555df0bf0b9 ***!
-  \*******************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_18682c416555df0bf0b9 */ "dll-reference dll_18682c416555df0bf0b9"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
-
-/***/ }),
-
-/***/ "./node_modules/react/index.js":
-/*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_18682c416555df0bf0b9 ***!
-  \*******************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_18682c416555df0bf0b9 */ "dll-reference dll_18682c416555df0bf0b9"))("./node_modules/react/index.js");
-
-/***/ }),
-
-/***/ "./node_modules/regenerator-runtime/runtime-module.js?f419":
-/*!***********************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/regenerator-runtime/runtime-module.js ***!
-  \***********************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/**
- * Copyright (c) 2014-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-// This method of obtaining a reference to the global object needs to be
-// kept identical to the way it is obtained in runtime.js
-var g = (function() {
-  return this || (typeof self === "object" && self);
-})() || Function("return this")();
-
-// Use `getOwnPropertyNames` because not all browsers support calling
-// `hasOwnProperty` on the global `self` object in a worker. See #183.
-var hadRuntime = g.regeneratorRuntime &&
-  Object.getOwnPropertyNames(g).indexOf("regeneratorRuntime") >= 0;
-
-// Save the old regeneratorRuntime in case it needs to be restored later.
-var oldRuntime = hadRuntime && g.regeneratorRuntime;
-
-// Force reevalutation of runtime.js.
-g.regeneratorRuntime = undefined;
-
-module.exports = __webpack_require__(/*! ./runtime */ "./node_modules/regenerator-runtime/runtime.js?c811");
-
-if (hadRuntime) {
-  // Restore the original runtime.
-  g.regeneratorRuntime = oldRuntime;
-} else {
-  // Remove the global property added by runtime.js.
-  try {
-    delete g.regeneratorRuntime;
-  } catch(e) {
-    g.regeneratorRuntime = undefined;
-  }
-}
-
-
-/***/ }),
-
-/***/ "./node_modules/regenerator-runtime/runtime.js?c811":
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/regenerator-runtime/runtime.js ***!
-  \****************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-/**
- * Copyright (c) 2014-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-!(function(global) {
-  "use strict";
-
-  var Op = Object.prototype;
-  var hasOwn = Op.hasOwnProperty;
-  var undefined; // More compressible than void 0.
-  var $Symbol = typeof Symbol === "function" ? Symbol : {};
-  var iteratorSymbol = $Symbol.iterator || "@@iterator";
-  var asyncIteratorSymbol = $Symbol.asyncIterator || "@@asyncIterator";
-  var toStringTagSymbol = $Symbol.toStringTag || "@@toStringTag";
-
-  var inModule = typeof module === "object";
-  var runtime = global.regeneratorRuntime;
-  if (runtime) {
-    if (inModule) {
-      // If regeneratorRuntime is defined globally and we're in a module,
-      // make the exports object identical to regeneratorRuntime.
-      module.exports = runtime;
-    }
-    // Don't bother evaluating the rest of this file if the runtime was
-    // already defined globally.
-    return;
-  }
-
-  // Define the runtime globally (as expected by generated code) as either
-  // module.exports (if we're in a module) or a new, empty object.
-  runtime = global.regeneratorRuntime = inModule ? module.exports : {};
-
-  function wrap(innerFn, outerFn, self, tryLocsList) {
-    // If outerFn provided and outerFn.prototype is a Generator, then outerFn.prototype instanceof Generator.
-    var protoGenerator = outerFn && outerFn.prototype instanceof Generator ? outerFn : Generator;
-    var generator = Object.create(protoGenerator.prototype);
-    var context = new Context(tryLocsList || []);
-
-    // The ._invoke method unifies the implementations of the .next,
-    // .throw, and .return methods.
-    generator._invoke = makeInvokeMethod(innerFn, self, context);
-
-    return generator;
-  }
-  runtime.wrap = wrap;
-
-  // Try/catch helper to minimize deoptimizations. Returns a completion
-  // record like context.tryEntries[i].completion. This interface could
-  // have been (and was previously) designed to take a closure to be
-  // invoked without arguments, but in all the cases we care about we
-  // already have an existing method we want to call, so there's no need
-  // to create a new function object. We can even get away with assuming
-  // the method takes exactly one argument, since that happens to be true
-  // in every case, so we don't have to touch the arguments object. The
-  // only additional allocation required is the completion record, which
-  // has a stable shape and so hopefully should be cheap to allocate.
-  function tryCatch(fn, obj, arg) {
-    try {
-      return { type: "normal", arg: fn.call(obj, arg) };
-    } catch (err) {
-      return { type: "throw", arg: err };
-    }
-  }
-
-  var GenStateSuspendedStart = "suspendedStart";
-  var GenStateSuspendedYield = "suspendedYield";
-  var GenStateExecuting = "executing";
-  var GenStateCompleted = "completed";
-
-  // Returning this object from the innerFn has the same effect as
-  // breaking out of the dispatch switch statement.
-  var ContinueSentinel = {};
-
-  // Dummy constructor functions that we use as the .constructor and
-  // .constructor.prototype properties for functions that return Generator
-  // objects. For full spec compliance, you may wish to configure your
-  // minifier not to mangle the names of these two functions.
-  function Generator() {}
-  function GeneratorFunction() {}
-  function GeneratorFunctionPrototype() {}
-
-  // This is a polyfill for %IteratorPrototype% for environments that
-  // don't natively support it.
-  var IteratorPrototype = {};
-  IteratorPrototype[iteratorSymbol] = function () {
-    return this;
-  };
-
-  var getProto = Object.getPrototypeOf;
-  var NativeIteratorPrototype = getProto && getProto(getProto(values([])));
-  if (NativeIteratorPrototype &&
-      NativeIteratorPrototype !== Op &&
-      hasOwn.call(NativeIteratorPrototype, iteratorSymbol)) {
-    // This environment has a native %IteratorPrototype%; use it instead
-    // of the polyfill.
-    IteratorPrototype = NativeIteratorPrototype;
-  }
-
-  var Gp = GeneratorFunctionPrototype.prototype =
-    Generator.prototype = Object.create(IteratorPrototype);
-  GeneratorFunction.prototype = Gp.constructor = GeneratorFunctionPrototype;
-  GeneratorFunctionPrototype.constructor = GeneratorFunction;
-  GeneratorFunctionPrototype[toStringTagSymbol] =
-    GeneratorFunction.displayName = "GeneratorFunction";
-
-  // Helper for defining the .next, .throw, and .return methods of the
-  // Iterator interface in terms of a single ._invoke method.
-  function defineIteratorMethods(prototype) {
-    ["next", "throw", "return"].forEach(function(method) {
-      prototype[method] = function(arg) {
-        return this._invoke(method, arg);
-      };
-    });
-  }
-
-  runtime.isGeneratorFunction = function(genFun) {
-    var ctor = typeof genFun === "function" && genFun.constructor;
-    return ctor
-      ? ctor === GeneratorFunction ||
-        // For the native GeneratorFunction constructor, the best we can
-        // do is to check its .name property.
-        (ctor.displayName || ctor.name) === "GeneratorFunction"
-      : false;
-  };
-
-  runtime.mark = function(genFun) {
-    if (Object.setPrototypeOf) {
-      Object.setPrototypeOf(genFun, GeneratorFunctionPrototype);
-    } else {
-      genFun.__proto__ = GeneratorFunctionPrototype;
-      if (!(toStringTagSymbol in genFun)) {
-        genFun[toStringTagSymbol] = "GeneratorFunction";
-      }
-    }
-    genFun.prototype = Object.create(Gp);
-    return genFun;
-  };
-
-  // Within the body of any async function, `await x` is transformed to
-  // `yield regeneratorRuntime.awrap(x)`, so that the runtime can test
-  // `hasOwn.call(value, "__await")` to determine if the yielded value is
-  // meant to be awaited.
-  runtime.awrap = function(arg) {
-    return { __await: arg };
-  };
-
-  function AsyncIterator(generator) {
-    function invoke(method, arg, resolve, reject) {
-      var record = tryCatch(generator[method], generator, arg);
-      if (record.type === "throw") {
-        reject(record.arg);
-      } else {
-        var result = record.arg;
-        var value = result.value;
-        if (value &&
-            typeof value === "object" &&
-            hasOwn.call(value, "__await")) {
-          return Promise.resolve(value.__await).then(function(value) {
-            invoke("next", value, resolve, reject);
-          }, function(err) {
-            invoke("throw", err, resolve, reject);
-          });
-        }
-
-        return Promise.resolve(value).then(function(unwrapped) {
-          // When a yielded Promise is resolved, its final value becomes
-          // the .value of the Promise<{value,done}> result for the
-          // current iteration.
-          result.value = unwrapped;
-          resolve(result);
-        }, function(error) {
-          // If a rejected Promise was yielded, throw the rejection back
-          // into the async generator function so it can be handled there.
-          return invoke("throw", error, resolve, reject);
-        });
-      }
-    }
-
-    var previousPromise;
-
-    function enqueue(method, arg) {
-      function callInvokeWithMethodAndArg() {
-        return new Promise(function(resolve, reject) {
-          invoke(method, arg, resolve, reject);
-        });
-      }
-
-      return previousPromise =
-        // If enqueue has been called before, then we want to wait until
-        // all previous Promises have been resolved before calling invoke,
-        // so that results are always delivered in the correct order. If
-        // enqueue has not been called before, then it is important to
-        // call invoke immediately, without waiting on a callback to fire,
-        // so that the async generator function has the opportunity to do
-        // any necessary setup in a predictable way. This predictability
-        // is why the Promise constructor synchronously invokes its
-        // executor callback, and why async functions synchronously
-        // execute code before the first await. Since we implement simple
-        // async functions in terms of async generators, it is especially
-        // important to get this right, even though it requires care.
-        previousPromise ? previousPromise.then(
-          callInvokeWithMethodAndArg,
-          // Avoid propagating failures to Promises returned by later
-          // invocations of the iterator.
-          callInvokeWithMethodAndArg
-        ) : callInvokeWithMethodAndArg();
-    }
-
-    // Define the unified helper method that is used to implement .next,
-    // .throw, and .return (see defineIteratorMethods).
-    this._invoke = enqueue;
-  }
-
-  defineIteratorMethods(AsyncIterator.prototype);
-  AsyncIterator.prototype[asyncIteratorSymbol] = function () {
-    return this;
-  };
-  runtime.AsyncIterator = AsyncIterator;
-
-  // Note that simple async functions are implemented on top of
-  // AsyncIterator objects; they just return a Promise for the value of
-  // the final result produced by the iterator.
-  runtime.async = function(innerFn, outerFn, self, tryLocsList) {
-    var iter = new AsyncIterator(
-      wrap(innerFn, outerFn, self, tryLocsList)
-    );
-
-    return runtime.isGeneratorFunction(outerFn)
-      ? iter // If outerFn is a generator, return the full iterator.
-      : iter.next().then(function(result) {
-          return result.done ? result.value : iter.next();
-        });
-  };
-
-  function makeInvokeMethod(innerFn, self, context) {
-    var state = GenStateSuspendedStart;
-
-    return function invoke(method, arg) {
-      if (state === GenStateExecuting) {
-        throw new Error("Generator is already running");
-      }
-
-      if (state === GenStateCompleted) {
-        if (method === "throw") {
-          throw arg;
-        }
-
-        // Be forgiving, per 25.3.3.3.3 of the spec:
-        // https://people.mozilla.org/~jorendorff/es6-draft.html#sec-generatorresume
-        return doneResult();
-      }
-
-      context.method = method;
-      context.arg = arg;
-
-      while (true) {
-        var delegate = context.delegate;
-        if (delegate) {
-          var delegateResult = maybeInvokeDelegate(delegate, context);
-          if (delegateResult) {
-            if (delegateResult === ContinueSentinel) continue;
-            return delegateResult;
-          }
-        }
-
-        if (context.method === "next") {
-          // Setting context._sent for legacy support of Babel's
-          // function.sent implementation.
-          context.sent = context._sent = context.arg;
-
-        } else if (context.method === "throw") {
-          if (state === GenStateSuspendedStart) {
-            state = GenStateCompleted;
-            throw context.arg;
-          }
-
-          context.dispatchException(context.arg);
-
-        } else if (context.method === "return") {
-          context.abrupt("return", context.arg);
-        }
-
-        state = GenStateExecuting;
-
-        var record = tryCatch(innerFn, self, context);
-        if (record.type === "normal") {
-          // If an exception is thrown from innerFn, we leave state ===
-          // GenStateExecuting and loop back for another invocation.
-          state = context.done
-            ? GenStateCompleted
-            : GenStateSuspendedYield;
-
-          if (record.arg === ContinueSentinel) {
-            continue;
-          }
-
-          return {
-            value: record.arg,
-            done: context.done
-          };
-
-        } else if (record.type === "throw") {
-          state = GenStateCompleted;
-          // Dispatch the exception by looping back around to the
-          // context.dispatchException(context.arg) call above.
-          context.method = "throw";
-          context.arg = record.arg;
-        }
-      }
-    };
-  }
-
-  // Call delegate.iterator[context.method](context.arg) and handle the
-  // result, either by returning a { value, done } result from the
-  // delegate iterator, or by modifying context.method and context.arg,
-  // setting context.delegate to null, and returning the ContinueSentinel.
-  function maybeInvokeDelegate(delegate, context) {
-    var method = delegate.iterator[context.method];
-    if (method === undefined) {
-      // A .throw or .return when the delegate iterator has no .throw
-      // method always terminates the yield* loop.
-      context.delegate = null;
-
-      if (context.method === "throw") {
-        if (delegate.iterator.return) {
-          // If the delegate iterator has a return method, give it a
-          // chance to clean up.
-          context.method = "return";
-          context.arg = undefined;
-          maybeInvokeDelegate(delegate, context);
-
-          if (context.method === "throw") {
-            // If maybeInvokeDelegate(context) changed context.method from
-            // "return" to "throw", let that override the TypeError below.
-            return ContinueSentinel;
-          }
-        }
-
-        context.method = "throw";
-        context.arg = new TypeError(
-          "The iterator does not provide a 'throw' method");
-      }
-
-      return ContinueSentinel;
-    }
-
-    var record = tryCatch(method, delegate.iterator, context.arg);
-
-    if (record.type === "throw") {
-      context.method = "throw";
-      context.arg = record.arg;
-      context.delegate = null;
-      return ContinueSentinel;
-    }
-
-    var info = record.arg;
-
-    if (! info) {
-      context.method = "throw";
-      context.arg = new TypeError("iterator result is not an object");
-      context.delegate = null;
-      return ContinueSentinel;
-    }
-
-    if (info.done) {
-      // Assign the result of the finished delegate to the temporary
-      // variable specified by delegate.resultName (see delegateYield).
-      context[delegate.resultName] = info.value;
-
-      // Resume execution at the desired location (see delegateYield).
-      context.next = delegate.nextLoc;
-
-      // If context.method was "throw" but the delegate handled the
-      // exception, let the outer generator proceed normally. If
-      // context.method was "next", forget context.arg since it has been
-      // "consumed" by the delegate iterator. If context.method was
-      // "return", allow the original .return call to continue in the
-      // outer generator.
-      if (context.method !== "return") {
-        context.method = "next";
-        context.arg = undefined;
-      }
-
-    } else {
-      // Re-yield the result returned by the delegate method.
-      return info;
-    }
-
-    // The delegate iterator is finished, so forget it and continue with
-    // the outer generator.
-    context.delegate = null;
-    return ContinueSentinel;
-  }
-
-  // Define Generator.prototype.{next,throw,return} in terms of the
-  // unified ._invoke helper method.
-  defineIteratorMethods(Gp);
-
-  Gp[toStringTagSymbol] = "Generator";
-
-  // A Generator should always return itself as the iterator object when the
-  // @@iterator function is called on it. Some browsers' implementations of the
-  // iterator prototype chain incorrectly implement this, causing the Generator
-  // object to not be returned from this call. This ensures that doesn't happen.
-  // See https://github.com/facebook/regenerator/issues/274 for more details.
-  Gp[iteratorSymbol] = function() {
-    return this;
-  };
-
-  Gp.toString = function() {
-    return "[object Generator]";
-  };
-
-  function pushTryEntry(locs) {
-    var entry = { tryLoc: locs[0] };
-
-    if (1 in locs) {
-      entry.catchLoc = locs[1];
-    }
-
-    if (2 in locs) {
-      entry.finallyLoc = locs[2];
-      entry.afterLoc = locs[3];
-    }
-
-    this.tryEntries.push(entry);
-  }
-
-  function resetTryEntry(entry) {
-    var record = entry.completion || {};
-    record.type = "normal";
-    delete record.arg;
-    entry.completion = record;
-  }
-
-  function Context(tryLocsList) {
-    // The root entry object (effectively a try statement without a catch
-    // or a finally block) gives us a place to store values thrown from
-    // locations where there is no enclosing try statement.
-    this.tryEntries = [{ tryLoc: "root" }];
-    tryLocsList.forEach(pushTryEntry, this);
-    this.reset(true);
-  }
-
-  runtime.keys = function(object) {
-    var keys = [];
-    for (var key in object) {
-      keys.push(key);
-    }
-    keys.reverse();
-
-    // Rather than returning an object with a next method, we keep
-    // things simple and return the next function itself.
-    return function next() {
-      while (keys.length) {
-        var key = keys.pop();
-        if (key in object) {
-          next.value = key;
-          next.done = false;
-          return next;
-        }
-      }
-
-      // To avoid creating an additional object, we just hang the .value
-      // and .done properties off the next function object itself. This
-      // also ensures that the minifier will not anonymize the function.
-      next.done = true;
-      return next;
-    };
-  };
-
-  function values(iterable) {
-    if (iterable) {
-      var iteratorMethod = iterable[iteratorSymbol];
-      if (iteratorMethod) {
-        return iteratorMethod.call(iterable);
-      }
-
-      if (typeof iterable.next === "function") {
-        return iterable;
-      }
-
-      if (!isNaN(iterable.length)) {
-        var i = -1, next = function next() {
-          while (++i < iterable.length) {
-            if (hasOwn.call(iterable, i)) {
-              next.value = iterable[i];
-              next.done = false;
-              return next;
-            }
-          }
-
-          next.value = undefined;
-          next.done = true;
-
-          return next;
-        };
-
-        return next.next = next;
-      }
-    }
-
-    // Return an iterator with no values.
-    return { next: doneResult };
-  }
-  runtime.values = values;
-
-  function doneResult() {
-    return { value: undefined, done: true };
-  }
-
-  Context.prototype = {
-    constructor: Context,
-
-    reset: function(skipTempReset) {
-      this.prev = 0;
-      this.next = 0;
-      // Resetting context._sent for legacy support of Babel's
-      // function.sent implementation.
-      this.sent = this._sent = undefined;
-      this.done = false;
-      this.delegate = null;
-
-      this.method = "next";
-      this.arg = undefined;
-
-      this.tryEntries.forEach(resetTryEntry);
-
-      if (!skipTempReset) {
-        for (var name in this) {
-          // Not sure about the optimal order of these conditions:
-          if (name.charAt(0) === "t" &&
-              hasOwn.call(this, name) &&
-              !isNaN(+name.slice(1))) {
-            this[name] = undefined;
-          }
-        }
-      }
-    },
-
-    stop: function() {
-      this.done = true;
-
-      var rootEntry = this.tryEntries[0];
-      var rootRecord = rootEntry.completion;
-      if (rootRecord.type === "throw") {
-        throw rootRecord.arg;
-      }
-
-      return this.rval;
-    },
-
-    dispatchException: function(exception) {
-      if (this.done) {
-        throw exception;
-      }
-
-      var context = this;
-      function handle(loc, caught) {
-        record.type = "throw";
-        record.arg = exception;
-        context.next = loc;
-
-        if (caught) {
-          // If the dispatched exception was caught by a catch block,
-          // then let that catch block handle the exception normally.
-          context.method = "next";
-          context.arg = undefined;
-        }
-
-        return !! caught;
-      }
-
-      for (var i = this.tryEntries.length - 1; i >= 0; --i) {
-        var entry = this.tryEntries[i];
-        var record = entry.completion;
-
-        if (entry.tryLoc === "root") {
-          // Exception thrown outside of any try block that could handle
-          // it, so set the completion value of the entire function to
-          // throw the exception.
-          return handle("end");
-        }
-
-        if (entry.tryLoc <= this.prev) {
-          var hasCatch = hasOwn.call(entry, "catchLoc");
-          var hasFinally = hasOwn.call(entry, "finallyLoc");
-
-          if (hasCatch && hasFinally) {
-            if (this.prev < entry.catchLoc) {
-              return handle(entry.catchLoc, true);
-            } else if (this.prev < entry.finallyLoc) {
-              return handle(entry.finallyLoc);
-            }
-
-          } else if (hasCatch) {
-            if (this.prev < entry.catchLoc) {
-              return handle(entry.catchLoc, true);
-            }
-
-          } else if (hasFinally) {
-            if (this.prev < entry.finallyLoc) {
-              return handle(entry.finallyLoc);
-            }
-
-          } else {
-            throw new Error("try statement without catch or finally");
-          }
-        }
-      }
-    },
-
-    abrupt: function(type, arg) {
-      for (var i = this.tryEntries.length - 1; i >= 0; --i) {
-        var entry = this.tryEntries[i];
-        if (entry.tryLoc <= this.prev &&
-            hasOwn.call(entry, "finallyLoc") &&
-            this.prev < entry.finallyLoc) {
-          var finallyEntry = entry;
-          break;
-        }
-      }
-
-      if (finallyEntry &&
-          (type === "break" ||
-           type === "continue") &&
-          finallyEntry.tryLoc <= arg &&
-          arg <= finallyEntry.finallyLoc) {
-        // Ignore the finally entry if control is not jumping to a
-        // location outside the try/catch block.
-        finallyEntry = null;
-      }
-
-      var record = finallyEntry ? finallyEntry.completion : {};
-      record.type = type;
-      record.arg = arg;
-
-      if (finallyEntry) {
-        this.method = "next";
-        this.next = finallyEntry.finallyLoc;
-        return ContinueSentinel;
-      }
-
-      return this.complete(record);
-    },
-
-    complete: function(record, afterLoc) {
-      if (record.type === "throw") {
-        throw record.arg;
-      }
-
-      if (record.type === "break" ||
-          record.type === "continue") {
-        this.next = record.arg;
-      } else if (record.type === "return") {
-        this.rval = this.arg = record.arg;
-        this.method = "return";
-        this.next = "end";
-      } else if (record.type === "normal" && afterLoc) {
-        this.next = afterLoc;
-      }
-
-      return ContinueSentinel;
-    },
-
-    finish: function(finallyLoc) {
-      for (var i = this.tryEntries.length - 1; i >= 0; --i) {
-        var entry = this.tryEntries[i];
-        if (entry.finallyLoc === finallyLoc) {
-          this.complete(entry.completion, entry.afterLoc);
-          resetTryEntry(entry);
-          return ContinueSentinel;
-        }
-      }
-    },
-
-    "catch": function(tryLoc) {
-      for (var i = this.tryEntries.length - 1; i >= 0; --i) {
-        var entry = this.tryEntries[i];
-        if (entry.tryLoc === tryLoc) {
-          var record = entry.completion;
-          if (record.type === "throw") {
-            var thrown = record.arg;
-            resetTryEntry(entry);
-          }
-          return thrown;
-        }
-      }
-
-      // The context.catch method must only be called with a location
-      // argument that corresponds to a known catch block.
-      throw new Error("illegal catch attempt");
-    },
-
-    delegateYield: function(iterable, resultName, nextLoc) {
-      this.delegate = {
-        iterator: values(iterable),
-        resultName: resultName,
-        nextLoc: nextLoc
-      };
-
-      if (this.method === "next") {
-        // Deliberately forget the last sent value so that we don't
-        // accidentally pass it on to the delegate.
-        this.arg = undefined;
-      }
-
-      return ContinueSentinel;
-    }
-  };
-})(
-  // In sloppy mode, unbound `this` refers to the global object, fallback to
-  // Function constructor if we're in global strict mode. That is sadly a form
-  // of indirect eval which violates Content Security Policy.
-  (function() {
-    return this || (typeof self === "object" && self);
-  })() || Function("return this")()
-);
-
-
-/***/ }),
-
-/***/ 2:
-/*!*****************************************************************************************************************************!*\
-  !*** multi C:/Users/chris/OneDrive/Desktop/PersonalProjects/DotsDandyCandy/frontend/node_modules/next/dist/pages/_error.js ***!
-  \*****************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-__NEXT_REGISTER_PAGE('/_error', function() {
-module.exports = __webpack_require__(/*! C:\Users\chris\OneDrive\Desktop\PersonalProjects\DotsDandyCandy\frontend\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
-
-return { page: module.exports.default }});
-
-/***/ }),
-
-/***/ "dll-reference dll_18682c416555df0bf0b9":
-/*!*******************************************!*\
-  !*** external "dll_18682c416555df0bf0b9" ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = dll_18682c416555df0bf0b9;
-
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]));;
-//# sourceMappingURL=_error.js.map
+})
+//# sourceMappingURL=_error.js.3c7fde82d586649107ad.hot-update.js.map
